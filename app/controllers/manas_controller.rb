@@ -1,0 +1,2 @@
+class ManasController < ApplicationController
+end
